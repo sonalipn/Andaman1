@@ -1,0 +1,25 @@
+
+.first{
+  background-image: url("https://images.unsplash.com/photo-1586359716568-3e1907e4cf9f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+  opacity: 0.85;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+.sec{
+  height: 700px;
+ background-color: #dddddd;
+}
+.third{
+  height: 700px;
+
+}
+.fourth{
+  height: 700px;
+  background-color: #e8e4e1
+
+}
+.hh:hover{
+  opacity: 0.8;
+}
